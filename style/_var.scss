@@ -1,0 +1,11 @@
+$fontWeight: (
+"thin": 100,
+"normal": 600,
+"bold": 900);
+
+
+@mixin flexCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
